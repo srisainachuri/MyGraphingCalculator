@@ -1,4 +1,4 @@
-How To Run:
+How To Run the code:
 ===============
 Step 1: Unzip the file 'MyGraphingCalculator.zip' to a test folder , example: 'C:\graphingCalculator'
 
